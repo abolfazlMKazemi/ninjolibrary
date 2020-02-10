@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.appodeal.networks:mintegral-interstitial:9.13.21@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8f7d9b7c198f7b3a4ed5a25edfb20308/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8f7d9b7c198f7b3a4ed5a25edfb20308/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8f7d9b7c198f7b3a4ed5a25edfb20308/jars/libs/classes-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
